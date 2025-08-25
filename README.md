@@ -17,6 +17,8 @@ La aplicación fue desarrollada por el equipo "Los Supervivientes" utilizando el
 -   **Listas de Compras Inteligentes:** Funcionalidad para crear listas de compras y comparar automáticamente en qué comercio se consigue el precio total más bajo.
 -   **Geolocalización:** Integración con APIs de mapas (OpenStreetMap, Google Maps) para mostrar comercios cercanos a la ubicación del usuario.
 
+- **Repositorio con el código del proyecto:** https://github.com/maxibellini/keprecios
+
 ## 🛠️ Arquitectura y Stack Tecnológico
 
 La aplicación se construyó siguiendo el patrón arquitectónico **Modelo-Vista-Controlador (MVC)** para una clara separación de responsabilidades.
